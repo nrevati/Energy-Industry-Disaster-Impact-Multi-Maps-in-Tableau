@@ -18,7 +18,9 @@ The project involved the following key steps:
 Tools & Techniques:
 
 • Tableau for data visualization and multi-maps creation
+
 • Data filtering, calculated fields, and ranking functions in Tableau
+
 • Custom shapes, color encoding, and interactive filtering for enhanced visual clarity
 	
 This project demonstrates how geospatial data, combined with visual analytics, can provide actionable insights into the operational risks faced by the energy industry due to natural disasters.
