@@ -1,4 +1,4 @@
-# Energy Industry Disaster Impact: Multi-Maps Visualization in Tableau 🌍
+# 🌍 Energy Industry Disaster Impact: Multi-Maps in Tableau 
 This project analyzes the impact of natural disasters on the energy industry using FEMA data (2004-2015) and Tableau's multi-maps (Trellis charts). 
 
 In this project, I conducted an in-depth analysis of the impact of natural disasters on the energy industry, utilizing FEMA data from 2004 to 2015. The objective was to identify the top four natural disasters affecting energy companies and their refineries across the U.S. The analysis was performed using Tableau, with a focus on creating multi-maps (also known as Trellis or Panel charts) for effective data visualization.
