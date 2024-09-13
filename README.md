@@ -16,10 +16,9 @@ The project involved the following key steps:
 • Annotation and Insights: Key refinery locations were annotated on the map for clarity, and I provided insights into the specific disasters that had the highest impact on energy refineries. Further, the project concluded with the creation of a Tableau story, weaving together all visualizations to present a coherent narrative on disaster impacts.
 	
 Tools & Techniques:
+
 • Tableau for data visualization and multi-maps creation
-
 • Data filtering, calculated fields, and ranking functions in Tableau
-
 • Custom shapes, color encoding, and interactive filtering for enhanced visual clarity
 	
 This project demonstrates how geospatial data, combined with visual analytics, can provide actionable insights into the operational risks faced by the energy industry due to natural disasters.
